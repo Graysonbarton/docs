@@ -1,4 +1,17 @@
 {
-  "workbench.editor.enablePreview": false,
-  "workbench.editor.enablePreviewFromQuickOpen": false
+  "$schema": "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.36.1/schema/markdownlint-config-schema.json",
+  "workbench.editor.enablePreview": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "files.autoSave": "onFocusChange",
+  "editor.codeLensFontSize": 12,
+  "editor.codeLensFontFamily": "monospace",
+  "editor.renderWhitespace": "trailing",
+  "editor.multiCursorModifier": "alt",
+  "editor.wordWrap": "on",
+  "editor.accessibilityPageSize": 500,
+  "editor.accessibilitySupport": "on",
+  "editor.autoClosingComments": "always",
+  "editor.autoClosingBrackets": "always",
+  "editor.autoIndent": "advanced",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true
 }
